@@ -12,7 +12,7 @@ public class Questao1 {
 		int anoAtual = sc.nextInt();
 		int idade = anoAtual - anoNasc;
 		
-		System.out.printf("Voceê tem %d anos ", idade);
+		System.out.printf("Você tem %d anos ", idade);
 
 		sc.close();
 	}
